@@ -3821,6 +3821,10 @@ packages:
         - radius
         - structured-cli
 
+    "Joel Burget <joelburget@gmail.com> @joelburget":
+        - symmetric-properties
+        - plur
+
     "Grandfathered dependencies":
         - Boolean
         - ChasingBottoms
